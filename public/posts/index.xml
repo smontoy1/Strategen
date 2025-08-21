@@ -2,25 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Strategen, LLC</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://strategen.org/posts/</link>
     <description>Recent content in Posts on Strategen, LLC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Aug 2025 18:51:05 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Us</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 20 Aug 2025 18:51:05 -0500</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;strategen--build-elite-teams-on-demand&#34;&gt;Strategen — Build elite teams on demand&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;About Us:&lt;/strong&gt;&#xA;Strategen maps team skills, instantly assembles the right &lt;em&gt;tiger team&lt;/em&gt; for any initiative, and guides targeted upskilling—cutting delivery time &lt;strong&gt;up to 50%&lt;/strong&gt;, reducing burnout, and strengthening succession.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What we do:&lt;/strong&gt;&#xA;Most teams don’t have a clear, current picture of their real capabilities. Strategen runs a fast Team Strength Analysis to reveal who can do what, where the coverage gaps are, and how work should be staffed. With one click, managers form &lt;em&gt;tiger teams&lt;/em&gt; optimized for the mission, while recruiting gets precise role specs and employees get personalized learning paths based on goals they set.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/about/</link>
-      <pubDate>Wed, 20 Aug 2025 18:51:05 -0500</pubDate>
-      <guid>http://localhost:1313/posts/about/</guid>
-      <description>&lt;p&gt;Here’s a tight, ready-to-use pitch plus sharp discovery questions you can use in calls, decks, or on your site.&lt;/p&gt;&#xA;&lt;h1 id=&#34;strategen--build-elite-teams-on-demand&#34;&gt;Strategen — Build elite teams on demand&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;One-liner:&lt;/strong&gt;&#xA;Strategen maps team skills, instantly assembles the right &lt;em&gt;tiger team&lt;/em&gt; for any initiative, and guides targeted upskilling—cutting delivery time &lt;strong&gt;up to 50%&lt;/strong&gt;, reducing burnout, and strengthening succession.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;30-second pitch:&lt;/strong&gt;&#xA;Most teams don’t have a clear, current picture of their real capabilities. Strategen runs a fast Team Strength Analysis to reveal who can do what, where the coverage gaps are, and how work should be staffed. With one click, managers form &lt;em&gt;tiger teams&lt;/em&gt; optimized for the mission, while recruiting gets precise role specs and employees get personalized learning paths based on goals they set. The result: faster delivery, smarter hiring, visible growth opportunities, and a more resilient organization.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://strategen.org/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
