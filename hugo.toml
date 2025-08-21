@@ -2,3 +2,6 @@ baseURL = 'https://strategen.org/'
 languageCode = 'en-us'
 title = 'Strategen, LLC'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

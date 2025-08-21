@@ -2,11 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Strategen, LLC</title>
-    <link>https://strategen.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Strategen, LLC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://strategen.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Aug 2025 18:51:05 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 20 Aug 2025 18:51:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;strategen--build-elite-teams-on-demand&#34;&gt;Strategen — Build elite teams on demand&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;About Us:&lt;/strong&gt;&#xA;Strategen maps team skills, instantly assembles the right &lt;em&gt;tiger team&lt;/em&gt; for any initiative, and guides targeted upskilling—cutting delivery time &lt;strong&gt;up to 50%&lt;/strong&gt;, reducing burnout, and strengthening succession.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What we do:&lt;/strong&gt;&#xA;Most teams don’t have a clear, current picture of their real capabilities. Strategen runs a fast Team Strength Analysis to reveal who can do what, where the coverage gaps are, and how work should be staffed. With one click, managers form &lt;em&gt;tiger teams&lt;/em&gt; optimized for the mission, while recruiting gets precise role specs and employees get personalized learning paths based on goals they set.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/posts/contact/</link>
+      <pubDate>Wed, 20 Aug 2025 18:51:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/contact/</guid>
+      <description>&lt;h1 id=&#34;strategen--build-elite-teams-on-demand&#34;&gt;Strategen — Build elite teams on demand&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Contact Us:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1) Clear purpose + primary CTA&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;One-liner: what visitors can contact you about.&lt;/li&gt;&#xA;&lt;li&gt;Primary button: &lt;strong&gt;Book a demo&lt;/strong&gt; (calendar link) + secondary: &lt;strong&gt;Contact sales&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;2) Contact form (short and smart)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Required: &lt;strong&gt;Full name&lt;/strong&gt;, &lt;strong&gt;Work email&lt;/strong&gt;, &lt;strong&gt;Company&lt;/strong&gt;, &lt;strong&gt;Role&lt;/strong&gt;, &lt;strong&gt;Topic&lt;/strong&gt; (Sales/Demo, Support, Partnerships, Press, Careers, Other), &lt;strong&gt;Message&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Optional (helps qualification): &lt;strong&gt;Team size&lt;/strong&gt; (select), &lt;strong&gt;Timeline&lt;/strong&gt; (Now / 1–3 months / 3–6 months).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Consent&lt;/strong&gt;: “I agree to the Privacy Policy.” (link)&lt;/li&gt;&#xA;&lt;li&gt;Optional &lt;strong&gt;marketing opt-in&lt;/strong&gt; (separate checkbox): “Send me product updates.”&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Expected response time&lt;/strong&gt;: “We reply within 1 business day.”&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;3) Direct channels&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
