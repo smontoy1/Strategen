@@ -1,17 +1,9 @@
 +++
 date = '2025-08-20T18:51:05-05:00'
 draft = true
-title = 'About Us'
+title = 'What we can do for your organization'
 +++
-# Strategen — Build elite teams on demand
-
-**About Us:**
-Strategen maps team skills, instantly assembles the right *tiger team* for any initiative, and guides targeted upskilling—cutting delivery time **up to 50%**, reducing burnout, and strengthening succession.
-
-**What we do:**
-Most teams don’t have a clear, current picture of their real capabilities. Strategen runs a fast Team Strength Analysis to reveal who can do what, where the coverage gaps are, and how work should be staffed. With one click, managers form *tiger teams* optimized for the mission, while recruiting gets precise role specs and employees get personalized learning paths based on goals they set. 
-
-**The result:** faster delivery, smarter hiring, visible growth opportunities, and a more resilient organization.
+# Team Strength Analysis — Build elite teams on demand
 
 **Core outcomes:**
 
@@ -20,6 +12,8 @@ Most teams don’t have a clear, current picture of their real capabilities. Str
 * **Growth:** Targeted learning plans and employee-driven interests.
 * **Resilience:** Succession readiness; no single-point-of-failure heroes.
 * **Well-being:** Less thrash and overtime → lower burnout.
+
+![TSA Example](/images/TSA-example.png)
 
 **Key capabilities (how we do it):**
 
@@ -46,22 +40,22 @@ Most teams don’t have a clear, current picture of their real capabilities. Str
 
 **Staffing & recruiting**
 
-6. How are project teams formed now—availability, intuition, or data?
+6. How are project teams formed now? Availability, intuition, or data?
 7. When you open a req, how precisely are required skills and levels defined?
 
 **Learning & engagement**
 
-8. How do employees signal what they want to learn—and does it feed staffing?
-9. % of learning spend ties to closing real, measured gaps?
+8. How do employees signal what they want to learn, and does this feedback inform staffing decisions?
+9. What % of learning spend ties to closing real, measured gaps?
 
 **Success criteria & ROI**
 
-10. we improved time-to-deliver by 30–50%, what would that unlock?
-11. KPIs matter most—cycle time, utilization, burnout, or retention?
+10. We improved time-to-deliver by 30–50%, what would that unlock?
+11. Which KPIs matter most? Cycle time, utilization, burnout, or retention?
 
 **Adoption & constraints**
 
-12. needs to see value first (leaders, managers, HR, employees)?
-13.’s the smallest pilot that would prove this works for you?
+12. Who needs to see value first (leaders, managers, HR, employees)?
+13. What's the smallest pilot that would prove this works for you?
 
 ---

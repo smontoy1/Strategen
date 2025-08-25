@@ -2,6 +2,6 @@ baseURL = 'https://strategen.org/'
 languageCode = 'en-us'
 title = 'Strategen, LLC'
 theme = 'ananke'
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+[params]
+site_logo = "img/print_tsa.svg"
+custom_css = ["custom.css"]
